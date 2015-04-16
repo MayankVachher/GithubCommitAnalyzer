@@ -1,0 +1,1041 @@
+Abhi...@Abhishek-pc
+9bf5d16
+Feedback bug fixed: created due to homepage updation
+2013-10-14
+Aditya Gupta
+8852eef
+Bugfix 395: minor import error blocking "Write a Review" feature.
+2013-10-14
+Aditya Gupta
+c9bd941
+Addresses bug 337. User-Profile form complete.
+2013-10-14
+Aditya Gupta
+c27b259
+Merge with Favicons
+2013-10-13
+Aditya Gupta
+fff6a93
+Favicon images added.
+2013-10-13
+Abhi...@Abhishek-pc
+e07b10d
+Feedback bug fixed: Say something not submitting the message
+2013-10-12
+Abhi...@Abhishek-pc
+93aa5c7
+Feedback bug fixed: form generates an error and form not sent if fields empty
+2013-10-12
+Abhi...@Abhishek-pc
+45e81f1
+Added validation to reviews form
+2013-10-11
+Abhi...@Abhishek-pc
+f9fd34c
+Chnaged Professor model to not null and not blank
+2013-10-11
+Abhi...@Abhishek-pc
+1981fee
+Added south for database migration
+2013-10-11
+Vin...@Vinayak-PC
+a1ff62b
+linked prof to DB
+2013-10-11
+Vinayak11118
+32b64c2
+merge with f09fc05
+2013-10-11
+Vin...@Vinayak-PC
+b5e1b24
+merge with efa3f1a
+2013-10-10
+Vin...@Vinayak-PC
+f38bfaf
+prof dropdown on review page
+2013-10-10
+Abhi...@Abhishek-pc
+f09fc05
+Added database_evolution for updating database tables
+2013-10-10
+Abhi...@Abhishek-pc
+efa3f1a
+Solved bug: 72 Database not updated on new reviews, professor field will be added when list updated
+2013-10-10
+An...@Ankur-PC.iiitd.edu.in
+a42cae5
+Model Faculty created
+2013-10-10
+An...@Ankur-PC.iiitd.edu.in
+ee5f898
+Fixed Bug 224 : removed irrelevant field and added hover on "not listed here"
+2013-10-10
+Aak...@Aakarsh-PC
+3da7b36
+Fixed bug #218. Course credits auto selected now to 4 credits
+2013-10-10
+Aditya Gupta
+7c14675
+List of professors added (static, not DB).
+2013-10-10
+An...@Ankur-PC.iiitd.edu.in
+c843912
+Changed Anonymous review and form button on home page
+2013-10-10
+Abhi...@Abhishek-pc.iiitd.edu.in
+9782206
+Updated shortcut icon on webpages
+2013-10-10
+Abhi...@Abhishek-pc.iiitd.edu.in
+9077e38
+Updated user Home page
+2013-10-10
+Abhi...@Abhishek-pc
+084aa10
+Fixed Bug: 71 ReviewCourse is now handled by 1 view
+2013-10-10
+Vin...@Vinayak-PC
+4fd2032
+new accordion on faq
+2013-10-10
+An...@Ankur-PC.iiitd.edu.in
+1e96a06
+Fixed Bug 73: current page title highlighted in Red.
+2013-10-10
+Abhi...@Abhishek-pc
+c152bef
+Changed anonymous review location on page
+2013-10-10
+An...@Ankur-PC.iiitd.edu.in
+3d2c645
+Fixed Bug 45 : Anonymous review option added
+2013-10-10
+Abhi...@Abhishek-pc
+5f1ed51
+Added footer to contact us - username also sent now with feedback form
+2013-10-10
+Vin...@Vinayak-PC
+6ebbe17
+courses selection list linked to DB
+2013-10-10
+Abhi...@Abhishek-pc
+51561be
+Feedback form sent to new smtp server at webfaction - username, email also sent
+2013-10-10
+Aak...@Aakarsh-PC
+364ba93
+Fixed bug #50. User now stays logged in after visiting contact us.
+2013-10-09
+An...@Ankur-PC.iiitd.edu.in
+249751d
+FIXED Bug 69 - Contact us page alignment
+2013-10-09
+Aditya Gupta
+3249dcf
+Minor Bug ID 82 fixed - comment box min. size on deployment server.
+2013-10-09
+Aditya Gupta
+99e3f54
+Merge with Aakarsh's code.
+2013-10-09
+Aditya Gupta
+5a04b5c
+Fixed some URLS and Views (Navigation).
+2013-10-09
+Aditya Gupta
+181848d
+Fixes Bug 52. FAQ's now mentioned.
+2013-10-09
+Aak...@Aakarsh-PC
+ca1e3bf
+Fixed bug #55. Fixed grammatical error
+2013-10-08
+Aditya Gupta
+ef94dbd
+[CRITICAL] Fixes bugID 53. Only iiitd.ac.in accounts allowed hereafter.
+2013-10-08
+Aditya Gupta
+be93e28
+Added tooltip to comments on review course page.
+2013-10-07
+Aditya Gupta
+efacc53
+Courses now in dynamic drop-down on review page.
+2013-10-07
+An...@Ankur-PC
+b4c7cc2
+reviews added to database
+2013-10-07
+An...@Ankur-PC
+2588f0b
+added comments section in review course
+2013-10-07
+Vin...@Vinayak-PC
+7145acb
+added select2 static files
+2013-10-06
+Vin...@Vinayak-PC
+d983209
+autocomplete for courses page
+2013-10-06
+An...@Ankur-PC
+8e26831
+Added slider questions for review page
+2013-10-06
+Aditya Gupta
+3410db7
+Fixed appearance of feedback pull. Merged with Vinayak.
+2013-10-06
+Aditya Gupta
+af1374d
+Fixed file heirarchy (navbars.html in main folder).
+2013-10-06
+Vin...@Vinayak-PC
+82a74ef
+open sans via googleapi
+2013-10-04
+Vin...@Vinayak-PC
+071a22f
+merge with 185f1e5
+2013-10-04
+Vin...@Vinayak-PC
+2f42193
+brand new homepage!
+2013-10-04
+Abhi...@Abhishek-pc
+185f1e5
+Fixed homepage and footer css, added fonts file
+2013-10-04
+Vin...@Vinayak-PC
+7b89485
+merged with 4742c9b
+2013-10-04
+Vin...@Vinayak-PC
+9b4bf48
+added fixed footer, changed css
+2013-10-04
+An...@Ankur-PC.iiitd.edu.in
+4742c9b
+reviewcourse.html - Added POST request fields
+2013-10-03
+An...@Ankur-PC.iiitd.edu.in
+07f36b7
+views.py - Fixed HTTP response error in reviewcourse
+2013-10-03
+Aditya Gupta
+76bc74b
+Close branch deployment_version.
+2013-10-03
+Aditya Gupta
+1604b9e
+Added staticfiles folder - as seen on dev. folder.
+2013-10-03
+Aditya Gupta
+1b98574
+Changed coursereview form. Added images.
+2013-10-03
+Aditya Gupta
+7eeec94
+Added Features Page.
+2013-10-03
+Aditya Gupta
+137d04d
+Homepage finished - changed all content and images.
+2013-10-02
+Aditya Gupta
+2759fbf
+Finalized homepage - Carousal Option 1.
+2013-10-02
+Vin...@Vinayak-PC
+b00f738
+courses now displayed on /courses. CSS needed.
+2013-10-02
+Vin...@Vinayak-PC
+cac56b9
+minified js files
+2013-10-02
+Vin...@Vinayak-PC
+4ab0d6e
+added courses to the database - skipped some
+2013-10-01
+Vinayak11118
+578ee52
+merge changes to navbar
+2013-10-01
+Vin...@Vinayak-PC
+a1dbf6d
+Created courses view and fixed coursereview.css
+2013-10-01
+Vin...@Vinayak-PC
+db0a223
+Created courses view and fixed coursereview.css
+2013-10-01
+Aak...@Aakarsh-PC
+b729c89
+Added bugzilla link on homepage navbar
+2013-10-01
+Vin...@Vinayak-PC
+83de83c
+Read course data from xlsx and store in json format
+2013-09-30
+vinayak111118
+e43cf87
+merge heads
+2013-09-30
+Adit...@iiitd.ac.in
+743be3a
+Signals can be used now to update the database. #TODO
+2013-09-29
+Adit...@iiitd.ac.in
+6fbba94
+Critical: signals file to handle form result
+2013-09-29
+An...@Ankur-PC
+c8092d4
+Redirection - feedback_thanks to home
+2013-09-29
+Abhi...@Abhishek-pc
+8bbcb79
+Feedback-Thanks css fixed
+2013-09-29
+Adit...@iiitd.ac.in
+30bdacf
+User Profile form on: localhost:8000/profile
+2013-09-29
+Abhi...@Abhishek-pc
+e7445f5
+Review Form View Created
+2013-09-29
+Abhi...@Abhishek-pc
+88c4fb7
+Feedback form data sent to email
+2013-09-29
+Adit...@iiitd.ac.in
+6488881
+Login and User Profile implemented.
+2013-09-28
+Adit...@iiitd.ac.in
+fcafa5a
+Login and User Profile implemented.
+2013-09-28
+Aak...@Aakarsh-PC
+6176d10
+Modified formatting in contact us page.
+2013-09-28
+Abhi...@Abhishek-pc
+227c358
+Feedback form data fetch to developers - corrected
+2013-09-28
+Abhi...@Abhishek-pc
+9cdb255
+Feedback form data fetch to developers
+2013-09-28
+An...@Ankur-PC
+83c23c5
+fixed and reviewed models.py
+2013-09-28
+Vin...@Vinayak-PC
+d6d0339
+/home page ONLY after user login
+2013-09-28
+Aak...@Aakarsh-PC
+e95c4db
+Added footer to the home page
+2013-09-28
+Adit...@iiitd.ac.in
+a7c7946
+Fixed is_authenticated calls
+2013-09-28
+Vin...@Vinayak-PC
+7e1be6e
+signin/out changed to absolute paths, static loaders fixed in navbar and bhome
+2013-09-28
+Vin...@Vinayak-PC
+826918d
+static loader changed
+2013-09-28
+vinayak11118
+ecec02b
+signin btn fix
+2013-09-28
+Vin...@Vinayak-PC
+c836185
+coolcarousel removed
+2013-09-28
+Adit...@iiitd.ac.in
+3f08555
+Missing files from last commit.
+2013-09-28
+Adit...@iiitd.ac.in
+a2878d0
+Development Version files for webfaction. Contains updated:
+2013-09-27
+An...@Ankur-PC.iiitd.edu.in
+c1a1314
+Added Contact us CSS and edited Contact us html
+2013-09-22
+Adit...@iiitd.ac.in
+3d7c984
+Added models/database backend.
+2013-09-22
+Vin...@11118
+6c83cbd
+.pyc files removed
+2013-09-22
+Vin...@Vinayak-PC
+39a77c3
+Books app removed
+2013-09-22
+Vin...@Vinayak-PC
+f96f941
+Removed unneeded files + fixed FAQ CSS
+2013-09-22
+Aak...@Aakarsh-PC
+f0317a4
+Corrected the sentence in Contact_us page. Added e-mail links. Implementation not yet completed.
+2013-09-15
+An...@Ankur-PC.iiitd.edu.in
+5a89da0
+Added variable for page tiltle.
+2013-09-10
+Abhi...@Abhishek-pc
+d1de4ef
+Some modification in file structures
+2013-09-10
+An...@Ankur-PC.iiitd.edu.in
+deb67b1
+Edited FAQ page and related CSS
+2013-09-10
+Aak...@Aakarsh-PC
+4ecda91
+Edited text in contact us page
+2013-09-10
+Aak...@Aakarsh-PC
+b53d069
+Added Contact us page, along with contact_us.html
+2013-09-10
+Abhi...@Abhishek-pc
+83348a3
+Form modified
+2013-09-10
+An...@Ankur-PC.iiitd.edu.in
+03a43c4
+Added FAQ page with sample FAQ questions.
+2013-09-10
+Abhi...@Abhishek-pc
+e6c0dc1
+Added navbar to each page of the application
+2013-09-10
+vinayak11118
+c8f00b9
+
+2013-09-10
+vinayak11118
+8d1c861
+remove .idea
+2013-09-10
+vinayak11118
+796dc24
+Removed .idea from remote repo
+2013-09-10
+Vinayak Shukl
+f00890b
+.hgignore edited online with Bitbucket
+2013-09-10
+vinayak11118
+43ceca9
+Closed branch
+2013-09-10
+Abhi...@Abhishek-pc
+0692ed1
+Added feedback button and a form popup - not implemented complete functionality
+2013-09-10
+Abhi...@Abhishek-pc
+e61059e
+Modified User authentication signin from single hyperlink to signin text to complete box
+2013-09-09
+Adit...@iiitd.ac.in
+1319180
+Added user verification indicator at homepage.
+2013-09-06
+Adit...@iiitd.ac.in
+4fef72b
+Added user verification indicator at homepage.
+2013-09-06
+Adit...@iiitd.ac.in
+038f9c7
+Added user verification indicator at homepage.
+2013-09-06
+Vinayak Shukl
+431ab3f
+Remove .idea files
+2013-09-06
+Adit...@iiitd.ac.in
+580b653
+Basic login functionality implemented using django_openid_auth. Cosmetic changes still required.
+2013-09-06
+Adit...@iiitd.ac.in
+7953e13
+Basic login functionality implemented using django_openid_auth. Cosmetic changes still required.
+2013-09-06
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
+d33e33c
+Pre-login implementation commit. Settings modified.
+2013-09-02
+Adit...@iiitd.ac.in
+93fdc2c
+Reorganized Files, added alternate(original) index homepage.
+2013-09-02
+Vin...@Vinayak-PC
+8edc691
+added carousel to homepage. responsiveness not working.
+2013-09-01
+Vin...@Vinayak-PC
+647d1b5
+static files added - minimized versions of bootstrap, responsive and bootstrap.js, imgs, fonts
+2013-09-01
+Vin...@Vinayak-PC
+33040df
+added { bootstrap, jquery, font-awesome }, created welcome page with standard navbar
+2013-09-01
+Vin...@Vinayak-PC
+56ca80c
+Added models to admin page
+2013-08-25
+Vin...@Vinayak-PC
+c7fc39d
+- See here for installation details: http://justpaste.it/coursereview
+2013-08-25
+Vin...@Vinayak-PC
+9a1c5fa
+- Added PostgreSQL support.
+2013-08-25
+Vin...@Vinayak-PC
+5f1d0a5
+- Added PostgreSQL support.
+2013-08-25
+Adit...@iiitd.ac.in
+c811678
+Initial Push, Basic Django framework
+2013-08-23
+Adit...@iiitd.ac.in
